@@ -1,50 +1,85 @@
 ---
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+layout: archive
+title: ""
 excerpt: "About me"
+permalink: /
 author_profile: true
-redirect_from: 
-  - /about/
+redirect_from:
+  - /resume
+  - /about
   - /about.html
+  - /cv
+  - /cv.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Hi!
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I'm a second year PhD student at the University of Chicago working (quantum) programming languages and verification, adivsed by [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation and verification, quantum computing, and software engineering.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+{% include base_path %}
 
-Getting started
+
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* B.Sc. in Computer Science, Karsruhe Institute of Technology, Germany, 2019
+* Ph.D in Computer Science, The University of Chicago, USA, 2025 (expected)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Languages
+======
+* German, English (bilingual)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Currently working on
+======
 
-**Markdown generator**
+* Formalizing ZX Calculus to create a verified ZX calculus optimizer
+  * Working with Ben Caldwell under guidance of Robert Rand
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Other Research Experience
+======
+* Sep 2020 - Sep 2021: Graduate Research Assistant
+  * University of Chicago, Chicago
+  * Worked on NSF Grant to build a CUDA backend to a DSL ''[Diderot](http://diderot-language.cs.uchicago.edu/)'' for data visualization and analysis in StandardML under advisement of John Reppy.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* Oct 2017 - Mar 2018: Research Project
+  * Karsruhe Institute of Technology
+  * Worked on a project to build a bluetooth beacon based indoor navigation system as part of practice in software engineering program at Karlsruhe Insitute of Technology
+
+Work experience
+======
+
+* Dec 2019 - Aug 2020: Assosicate Software Engineer
+  * LogMeIn, Karlsruhe, Germany
+  * Built a system to mass deploy files, scripts to virtual machines in a private cloud. For this I worked in a cross functional Software Engineering and DevOps team with members on multiple continents managing a global private cloud with thousands of active virtual machines. Built out the high availibility deployment on a container infrastructure. Was repeatedly recognized for outstanding work by my superior.
+  * Technologies used: Java, Spring, (Postgres)SQL, Docker, Kubernetes, 
+
+* Sep 2018 - Nov 2019: Software Engineering Intern (part-time)
+  * LogMeIn, Karlsruhe, Germany
+  * Working on internal tools for developing products used by millions everyday. Won Team Quality Award.
+
+
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* May 2017 - Jun 2018 Hack & Söhne Hackathon Organization, Sponsorship Management
+  * Hack & Söhne, Karlsruhe, Germany
+  * Organizing events such as the [OpenCodes Hackathon](https://opencodes.io) and the [Hacktival](https://hacktival.io), which themselves were Germany's biggest student run hackathons in 2018 and 2019. I was invloved in all aspects of organizing these events, from hands-on work at the event, to financial planning. My main focus though lay on sponsorship acquisition and management to make sure the event's funding is secured.
+
+* Jun 2019 - Jun 2019 Joint Chairman Hack & Söhne, talKIT - The technology symposium 
+  * Hack & Söhne, Karlsruhe, Germany
+  * talKIT - The technology symposium  is a student organisation that annually organizes the largest European student technology symposium and is the parent organization of Hack & Söhne. In my role I got to represent Hack & Söhne both internally and externally. During my time two sucessful events were run and the stability of the organization was ensured. 
+
+* May 2016 - Nov 2017 Webmaster at sports club
+  * TFC Ludwigshafen, Ludwigshafen am Rhein, Germany
