@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2019-loop-unrolling
 excerpt: 'Unrolling loops where bounds are unknown at compile time'
 date: 2019-09-30
-venue: 'Journal 1'
+venue: 'N/A'
 paperurl: 'https://pp.info.uni-karlsruhe.de/uploads/publikationen/lehmann19bachelorarbeit.pdf'
-citation: 'Adrian Lehmann (2019). &quot;Loop unrolling with non-constant bounds in FIRM".&quot; <i>KIT Bachelor Thesis</i>.'
+citation: 'Adrian Lehmann (2019). &quot;Loop unrolling with non-constant bounds in FIRM". <i>KIT Bachelor Thesis</i>.'
 ---
 Loop unrolling is the process of duplicating a loop’s body multiple times to reduce the number of conditional jumps. While we can easily unroll loops with constant bounds, unrolling loops with non-constant bounds proves to be a different challenge.
 

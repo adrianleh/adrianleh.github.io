@@ -14,7 +14,7 @@ redirect_from:
 
 Hi!
 ======
-I'm a second year PhD student at the University of Chicago working (quantum) programming languages and verification, adivsed by [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation and verification, quantum computing, and software engineering.
+I'm a second year PhD student at the University of Chicago working (quantum) programming languages and verification, adivsed by [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation and verification, quantum computing, and software engineering. I'm excited to be joining Microsoft Quantum for the summer as a research intern.
 
 {% include base_path %}
 
@@ -32,7 +32,7 @@ Currently working on
 ======
 
 * Formalizing ZX Calculus to create a verified ZX calculus optimizer
-  * Working with Ben Caldwell under guidance of Robert Rand
+  * Co-Leading with Ben Caldwell under guidance of Robert Rand & John Reppy
 
 
 Publications
@@ -43,13 +43,19 @@ Publications
 
 Other Research Experience
 ======
-* Sep 2020 - Sep 2021: Graduate Research Assistant
-  * University of Chicago, Chicago
-  * Worked on NSF Grant to build a CUDA backend to a DSL ''[Diderot](http://diderot-language.cs.uchicago.edu/)'' for data visualization and analysis in StandardML under advisement of John Reppy.
+* Sep 2020 - Today: Graduate Student Researcher
+  * University of Chicago
+  * Sep 2020 - Sep 2021: Worked on NSF Grant to build a CUDA backend to a DSL ''[Diderot](http://diderot-language.cs.uchicago.edu/)'' for data visualization and analysis in StandardML under advisement of John Reppy.
+  * Since Jan 2022: Part of NSF expedition "EPiQC" to formalize the ZX calculus 
+
+* Oct 2018 - Mar 2019: Research Project
+  * Karsruhe Institute of Technology
+  * Built a compiler for a subset of Java with custom backend and optimization framework 
 
 * Oct 2017 - Mar 2018: Research Project
   * Karsruhe Institute of Technology
-  * Worked on a project to build a bluetooth beacon based indoor navigation system as part of practice in software engineering program at Karlsruhe Insitute of Technology
+  * Prototyped and analyzed BLE beacon based indoor navigation system based on multilateration as part of practice in software engineering program at
+    Karlsruhe Insitute of Technology
 
 Work experience
 ======
@@ -57,13 +63,13 @@ Work experience
 * Dec 2019 - Aug 2020: Assosicate Software Engineer
   * LogMeIn, Karlsruhe, Germany
   * Built a system to mass deploy files, scripts to virtual machines in a private cloud. For this I worked in a cross functional Software Engineering and DevOps team with members on multiple continents managing a global private cloud with thousands of active virtual machines. Built out the high availibility deployment on a container infrastructure. Was repeatedly recognized for outstanding work by my superior.
-  * Technologies used: Java, Spring, (Postgres)SQL, Docker, Kubernetes, 
+  Built a terraform provider for private cloud.
+  * Technologies used: Java, Spring, (Postgres)SQL, Docker, Kubernetes, Go, Terraform, Ansible
 
 * Sep 2018 - Nov 2019: Software Engineering Intern (part-time)
   * LogMeIn, Karlsruhe, Germany
-  * Working on internal tools for developing products used by millions everyday. Won Team Quality Award.
-
-
+  * Working on internal tools for developing products used by millions everyday. Won Team Quality Award. Built end-to-end testing framework. Built Terraform provider prototype for private cloud.
+  * Technologies used: Java, Spring, Docker, Go, Terraform, Selenium
 
 Teaching
 ======
@@ -71,6 +77,17 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Misc. Projects
+======
+
+* I created a bunch of study guides during undergrad. So if you are a KIT computer science student please find them on my [GitHub here](https://github.com/adrianleh?tab=repositories&q=revision&type=public&language=&sort=)
+
+* I [benchmarked](https://github.com/adrianleh/quantum-compiler-benchmark) a bunch of quantum compilers to see if juxtaposition with other compilers would improve performance
+
+* [Here](https://github.com/adrianleh/ntfs-paper) is an overview of NTFS I wrote for a seminar
+
+* There's more on my [GitHub](https://github.com/adrianleh)
+
 Service and leadership
 ======
 * May 2017 - Jun 2018 Hack & Söhne Hackathon Organization, Sponsorship Management
