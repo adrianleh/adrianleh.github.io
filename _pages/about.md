@@ -62,8 +62,7 @@ Work experience
 
 * Dec 2019 - Aug 2020: Assosicate Software Engineer
   * LogMeIn, Karlsruhe, Germany
-  * Built a system to mass deploy files, scripts to virtual machines in a private cloud. For this I worked in a cross functional Software Engineering and DevOps team with members on multiple continents managing a global private cloud with thousands of active virtual machines. Built out the high availibility deployment on a container infrastructure. Was repeatedly recognized for outstanding work by my superior.
-  Built a terraform provider for private cloud
+  * Built a system to mass deploy files, scripts to virtual machines in a private cloud. For this I worked in a cross functional Software Engineering and DevOps team with members on multiple continents managing a global private cloud with thousands of active virtual machines. Built out the high availibility deployment on a container infrastructure.  Built a terraform provider for private cloud. Was repeatedly recognized for outstanding work by my superior. Conducted multiple technical interviews
   * Technologies used: Java, Spring, (Postgres)SQL, Docker, Kubernetes, Go, Terraform, Ansible
 
 * Sep 2018 - Nov 2019: Software Engineering Intern (part-time)
