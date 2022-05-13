@@ -14,7 +14,7 @@ redirect_from:
 
 Hi!
 ======
-I'm a second year PhD student at the University of Chicago working (quantum) programming languages and verification, adivsed by [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation and verification, quantum computing, and software engineering. I'm excited to be joining Microsoft Quantum for the summer as a research intern.
+I'm a second year PhD student at the University of Chicago working on (quantum) programming languages and verification, adivsed by [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation and verification, quantum computing, and software engineering. I'm excited to be joining Microsoft Quantum for the summer as a research intern.
 
 {% include base_path %}
 
@@ -63,12 +63,12 @@ Work experience
 * Dec 2019 - Aug 2020: Assosicate Software Engineer
   * LogMeIn, Karlsruhe, Germany
   * Built a system to mass deploy files, scripts to virtual machines in a private cloud. For this I worked in a cross functional Software Engineering and DevOps team with members on multiple continents managing a global private cloud with thousands of active virtual machines. Built out the high availibility deployment on a container infrastructure. Was repeatedly recognized for outstanding work by my superior.
-  Built a terraform provider for private cloud.
+  Built a terraform provider for private cloud
   * Technologies used: Java, Spring, (Postgres)SQL, Docker, Kubernetes, Go, Terraform, Ansible
 
 * Sep 2018 - Nov 2019: Software Engineering Intern (part-time)
   * LogMeIn, Karlsruhe, Germany
-  * Working on internal tools for developing products used by millions everyday. Won Team Quality Award. Built end-to-end testing framework. Built Terraform provider prototype for private cloud.
+  * Working on internal tools for developing products used by millions everyday. Won Team Quality Award. Built end-to-end testing framework. Built Terraform provider prototype for private cloud
   * Technologies used: Java, Spring, Docker, Go, Terraform, Selenium
 
 Teaching
@@ -80,7 +80,7 @@ Teaching
 Misc. Projects
 ======
 
-* I created a bunch of study guides during undergrad. So if you are a KIT computer science student please find them on my [GitHub here](https://github.com/adrianleh?tab=repositories&q=revision&type=public&language=&sort=)
+* I created a bunch of study guides during undergrad. So if you are a KIT computer science student please find them on my [GitHub here](https://github.com/adrianleh?tab=repositories&q=revision&type=public&language=&sort=). Some of them are German
 
 * I [benchmarked](https://github.com/adrianleh/quantum-compiler-benchmark) a bunch of quantum compilers to see if juxtaposition with other compilers would improve performance
 
