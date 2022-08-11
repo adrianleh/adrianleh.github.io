@@ -46,7 +46,7 @@ Other Research Experience
 * Sep 2020 - Today: Graduate Student Researcher
   * University of Chicago
   * Sep 2020 - Sep 2021: Worked on NSF Grant to build a CUDA backend to a DSL ''[Diderot](http://diderot-language.cs.uchicago.edu/)'' for data visualization and analysis in StandardML under advisement of John Reppy.
-  * Since Jan 2022: Part of NSF expedition "EPiQC" to formalize the ZX calculus 
+  * Jan 2022- Jun 2022: Part of NSF expedition "EPiQC" to formalize the ZX calculus 
 
 * Oct 2018 - Mar 2019: Research Project
   * Karsruhe Institute of Technology
@@ -59,6 +59,9 @@ Other Research Experience
 
 Work experience
 ======
+
+* Jun 2022 - Sep 2022: Research Intern
+  * Microsoft Quantum, Remote, US
 
 * Dec 2019 - Aug 2020: Assosicate Software Engineer
   * LogMeIn, Karlsruhe, Germany
