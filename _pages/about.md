@@ -41,6 +41,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Talks
+======
+  <ul>{% for post in site.talks %} 
+    {% include archive-single-talk-cv.html %} 
+  {% endfor %}
+  </ul>
+
+
 Other Research Experience
 ======
 * Sep 2020 - Today: Graduate Student Researcher
