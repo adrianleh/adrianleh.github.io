@@ -14,7 +14,7 @@ redirect_from:
 
 Hi!
 ======
-I'm a second year PhD student at the University of Chicago working on (quantum) programming languages and verification, adivsed by [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation and verification, quantum computing, and software engineering. I'm excited to be joining Microsoft Quantum for the summer as a research intern.
+I'm a second year PhD student at the University of Chicago working on (quantum) programming languages and verification, adivsed by [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation and verification, quantum computing, and software engineering.
 
 {% include base_path %}
 
@@ -70,6 +70,7 @@ Work experience
 
 * Jun 2022 - Sep 2022: Research Intern
   * Microsoft Quantum, Remote, US
+  * Created quantum algorithm samples (Entanglement Swapping, Solving Sudoku with Grover's Search, and Numerical Integration using Quantum Amplitude Estimation) using Q#, Qiskit, and the Microsoft Quantum Development Kit for the Azure Quantum platform 
 
 * Dec 2019 - Aug 2020: Assosicate Software Engineer
   * LogMeIn, Karlsruhe, Germany
