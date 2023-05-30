@@ -14,15 +14,15 @@ redirect_from:
 
 Hi!
 ======
-I'm a second year PhD student at the University of Chicago working on (quantum) programming languages and verification, adivsed by [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation and verification, quantum computing, and software engineering.
+I'm a fourth year PhD student at the University of Chicago working on (quantum) programming languages and verification, adivsed by [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation, verification, and using PL for better software engineering. I'm currently exploring applying these techniques to quantum computing.
 
 {% include base_path %}
 
 
 Education
 ======
-* B.Sc. in Computer Science, Karsruhe Institute of Technology, Germany, 2019
-* Ph.D in Computer Science, The University of Chicago, USA, 2025 (expected)
+* B.Sc. in Computer Science, Karlsruhe Institute of Technology, Germany, 2019
+* Ph.D. in Computer Science, The University of Chicago, USA, 2025 (expected)
 
 Languages
 ======
@@ -70,7 +70,7 @@ Work experience
 
 * Jun 2022 - Sep 2022: Research Intern
   * Microsoft Quantum, Remote, US
-  * Created quantum algorithm samples (Entanglement Swapping, Solving Sudoku with Grover's Search, and Numerical Integration using Quantum Amplitude Estimation) using Q#, Qiskit, and the Microsoft Quantum Development Kit for the Azure Quantum platform 
+  * Created quantum algorithm samples (Entanglement Swapping, Solving Sudoku with Grover's Search, and Numerical Integration using Quantum Amplitude Estimation) using Q#, Qiskit, and the Microsoft Quantum Development Kit for the Azure Quantum platform.
 
 * Dec 2019 - Aug 2020: Assosicate Software Engineer
   * LogMeIn, Karlsruhe, Germany
@@ -101,6 +101,9 @@ Misc. Projects
 
 Service and leadership
 ======
+* Jan 2023 POPL Student volunteer
+  * POPL Conference, Boston, MA, USA
+
 * May 2017 - Jun 2018 Hack & Söhne Hackathon Organization, Sponsorship Management
   * Hack & Söhne, Karlsruhe, Germany
   * Organizing events such as the [OpenCodes Hackathon](https://opencodes.io) and the [Hacktival](https://hacktival.io), which themselves were Germany's biggest student run hackathons in 2018 and 2019. I was invloved in all aspects of organizing these events, from hands-on work at the event, to financial planning. My main focus though lay on sponsorship acquisition and management to make sure the event's funding is secured.
