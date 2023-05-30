@@ -14,7 +14,7 @@ redirect_from:
 
 Hi!
 ======
-I'm a PhD student at the University of Chicago working on bu(quantum) programming languages and verification, adivsed by [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation, verification, and using PL for better software engineering. I'm currently exploring applying these techniques to quantum computing.  Before starting my PhD, I obtained my undergraduate degree in computer science from Karlsruhe Institute of Technology in Germany. Subsequently, I worked as a software engineer at LogMeIn. Being an engineer at heart, I still possess a strong passion for utilizing technology to tackle complex challenges and for creating high-quality software.
+I'm a PhD student at the University of Chicago working on bu(quantum) programming languages and verification, adivsed by [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation, verification, and using PL for better software engineering. I'm currently exploring applying these techniques to quantum computing.  Before starting my PhD, I obtained my undergraduate degree in computer science from Karlsruhe Institute of Technology in Germany. Subsequently, I worked as a software engineer at LogMeIn. Being an engineer at heart, I still possess a strong passion for utilizing technology to tackle complex challenges and for creating high-quality software. 
 
 {% include base_path %}
 
@@ -33,6 +33,7 @@ Currently working on
 
 * Formalizing ZX Calculus to create a verified ZX calculus optimizer
   * Co-Leading with Ben Caldwell under guidance of Robert Rand & John Reppy
+  * [This work won a grant from the Air Force Office of Scientifc Research (AFOSR)](https://cs.uchicago.edu/news/assistant-professor-robert-rand-receives-air-force-young-investigator-grant/)
 
 
 Publications
