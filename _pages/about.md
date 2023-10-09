@@ -14,7 +14,7 @@ redirect_from:
 
 Hi!
 ======
-I'm a PhD student at the University of Chicago working on bu(quantum) programming languages and verification, adivsed by [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation, verification, and using PL for better software engineering. I'm currently exploring applying these techniques to quantum computing.  Before starting my PhD, I obtained my undergraduate degree in computer science from Karlsruhe Institute of Technology in Germany. Subsequently, I worked as a software engineer at LogMeIn. Being an engineer at heart, I still possess a strong passion for utilizing technology to tackle complex challenges and for creating high-quality software. 
+I'm a PhD student at the University of Chicago working on quantum programming languages and verification, adivsed by [John Reppy](https://people.cs.uchicago.edu/~jhr/), working with [Robert Rand](https://rand.cs.uchicago.edu/). My interests lie in programming languages: compilation, verification, and using PL for better software engineering. I'm currently exploring applying these techniques to quantum computing.  Before starting my PhD, I obtained my undergraduate degree in computer science from Karlsruhe Institute of Technology in Germany. Subsequently, I worked as a software engineer at LogMeIn. Being an engineer at heart, I still possess a strong passion for utilizing technology to tackle complex challenges and for creating high-quality software. 
 
 {% include base_path %}
 
