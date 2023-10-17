@@ -22,6 +22,7 @@ I'm a PhD student at the University of Chicago working on quantum programming la
 Education
 ======
 * B.Sc. in Computer Science, Karlsruhe Institute of Technology, Germany, 2019
+* MS in Computer Science, The University of Chicago, USA, 2023
 * Ph.D. in Computer Science, The University of Chicago, USA, 2025 (expected)
 
 Languages
