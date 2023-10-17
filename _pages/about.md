@@ -28,13 +28,9 @@ I mourn with all those who have lost their lives or a family member or friend.
 Many of my fellow students agree with this stance.
 However, there a loud minority of people at UChicago that uses this opportunity to chant anti-semitic statements such as ["from the river to the sea"](https://www.ajc.org/translatehate/From-the-River-to-the-Sea), saying Hamas' Oct 7 attacks, which [had the explicit goal of murdering civilians (and especially children)](https://www.nbcnews.com/news/investigations/top-secret-hamas-documents-show-terrorists-intentionally-targeted-elem-rcna120310), are ["resistance groups that broke out of Gaza"](https://www.instagram.com/p/CyRXf4jvnqp/), and claiming that the Israeli victims ["deserve it"](https://chicagomaroon.com/40110/news/sjp-begins-daily-quad-protest-advocating-palestinian-liberation/).
 Anti-semitism like this is beyond reprehensible.
-
 I am appalled to hear such statements at my institution without an official statement of condemnation.
-
 I am appalled that many of my colleagues sign on to [any open letters](https://docs.google.com/document/d/1Aip8egzPT1SeY0mCjxUrkvEb8pZuTMhkWVffoB8Dlw0/edit) from an organization that promotes such speech and is in alignment with their goals (see next bullet).
-
 I am appalled to have my union (UChicago GSU) endorse a core demand of this group: an academic boycott of Israel ([something reminding my of very dark times](https://www.scientificamerican.com/article/how-2-pro-nazi-nobelists-attacked-einstein-s-jewish-science-excerpt1/)).
-
 As a German, the phrase [**"never again"**](https://eg.usembassy.gov/never-forget-never-again-germany-and-the-united-states-mark-holocaust-remembrance-day/) carries a lot of weight to me.
 Out of duty to my country's history and my Jewish community members, I felt it was important to **publicly distance myself from any such speech or from any affiliation with the groups involved**.
 
