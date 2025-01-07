@@ -34,6 +34,8 @@ Currently working on
 * Formalizing ZX Calculus to create a verified ZX calculus optimizer
   * Co-Leading with Ben Caldwell under guidance of Robert Rand & John Reppy
   * [This work won a grant from the Air Force Office of Scientifc Research (AFOSR)](https://cs.uchicago.edu/news/assistant-professor-robert-rand-receives-air-force-young-investigator-grant/)
+* Proof automation using E-Graph systems
+  * What if proof search was smart and avoided re-computation? Can we use it to solve interesting domain-specific applications?
 
 
 Publications
@@ -92,7 +94,7 @@ Teaching
 Misc. Projects
 ======
 
-* I created a bunch of study guides during undergrad. So if you are a KIT computer science student please find them on my [GitHub here](https://github.com/adrianleh?tab=repositories&q=revision&type=public&language=&sort=). (Note: Some of them are in German language)
+* I created a bunch of study guides during undergrad. So if you are a KIT computer science student please find them on my [GitHub](https://github.com/adrianleh?tab=repositories&q=revision&type=public&language=&sort=). (Note: Some of them are in German language)
 
 * I [benchmarked](https://github.com/adrianleh/quantum-compiler-benchmark) a bunch of quantum compilers to see if juxtaposition with other compilers would improve performance
 
