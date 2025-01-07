@@ -14,7 +14,7 @@ redirect_from:
 
 Hi!
 ======
-I'm a PhD candidate at the University of Chicago working on quantum programming languages and verification, adivsed by [Robert Rand](https://rand.cs.uchicago.edu/) and [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation, verification, and using PL for better software engineering. I'm currently exploring applying these techniques to quantum computing.  Before starting my PhD, I obtained my undergraduate degree in computer science from Karlsruhe Institute of Technology in Germany. Subsequently, I worked as a software engineer at LogMeIn. Being an engineer at heart, I still possess a strong passion for utilizing technology to tackle complex challenges and for creating high-quality software. 
+I'm a PhD candidate at the University of Chicago working on quantum programming languages and verification, adivsed by [Robert Rand](https://rand.cs.uchicago.edu/) and [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation, verification, and using PL for better software engineering. I'm currently exploring applying these techniques to quantum computing.  Before starting my PhD, I obtained my undergraduate degree in computer science from Karlsruhe Institute of Technology in Germany. Subsequently, I worked as a software engineer at LogMeIn. Being an engineer at heart, I still possess a strong passion for utilizing technology to tackle complex challenges and for creating high-quality software.
 
 {% include base_path %}
 
@@ -115,5 +115,5 @@ Service and leadership
   * Hack & Söhne, Karlsruhe, Germany
   * talKIT - The technology symposium  is a student organisation that annually organizes the largest European student technology symposium and is the parent organization of Hack & Söhne. In my role I got to represent Hack & Söhne both internally and externally. During my time two sucessful events were run and the stability of the organization was ensured. 
 
-* May 2016 - Nov 2017 Webmaster at sports club
+* May 2016 - Nov 2017 Webmaster at Local Sports Club
   * TFC Ludwigshafen, Ludwigshafen am Rhein, Germany
