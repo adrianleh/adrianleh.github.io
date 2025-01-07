@@ -92,7 +92,7 @@ Teaching
 Misc. Projects
 ======
 
-* I created a bunch of study guides during undergrad. So if you are a KIT computer science student please find them on my [GitHub here](https://github.com/adrianleh?tab=repositories&q=revision&type=public&language=&sort=). Some of them are German
+* I created a bunch of study guides during undergrad. So if you are a KIT computer science student please find them on my [GitHub here](https://github.com/adrianleh?tab=repositories&q=revision&type=public&language=&sort=). (Note: Some of them are in German language)
 
 * I [benchmarked](https://github.com/adrianleh/quantum-compiler-benchmark) a bunch of quantum compilers to see if juxtaposition with other compilers would improve performance
 
