@@ -14,7 +14,13 @@ redirect_from:
 
 Hi!
 ======
-I'm a PhD candidate at the University of Chicago working on quantum programming languages and verification, adivsed by [Robert Rand](https://rand.cs.uchicago.edu/) and [John Reppy](https://people.cs.uchicago.edu/~jhr/). My interests lie in programming languages: compilation, verification, and using PL for better software engineering. I'm currently exploring applying these techniques to quantum computing.  Before starting my PhD, I obtained my undergraduate degree in computer science from Karlsruhe Institute of Technology in Germany. Subsequently, I worked as a software engineer at LogMeIn. Being an engineer at heart, I still possess a strong passion for utilizing technology to tackle complex challenges and for creating high-quality software.
+I'm a PhD candidate at the University of Chicago. My research develops tools and techniques for improving software reliability challenges applicable to high-assurance systems, specifically but not limited to Quantum Computing.
+
+Before my PhD, I worked as a software engineer in infrastructure at LogMeIn, building scalable and reliable systems for a private cloud with >4000 VMs spanning three continents. During my PhD, I’ve kept an eye on improving the maintainability and automation of open-source formal verification projects. I built a linter to help manage these projects at scale and integrated CI pipelines to ensure reliability and make managing pull requests easier.
+
+I thrive at the intersection of engineering and problem-solving. I want to build and take ownership of high-quality software but also streamline the development.
+
+**I’m seeking full-time roles in Software Engineering, Developer Tooling, Infrastructure, or Cloud Computing, where I can apply my experience in building scalable systems, and high-quality mission-critical software. Expected graduation: 09/25.**
 
 {% include base_path %}
 
@@ -22,7 +28,7 @@ Education
 ======
 * B.Sc. in Computer Science, Karlsruhe Institute of Technology, Germany, 2019
 * MS in Computer Science, The University of Chicago, USA, 2023
-* Ph.D. in Computer Science, The University of Chicago, USA, 2025 (expected)
+* Ph.D. in Computer Science, The University of Chicago, USA, 09/2025 (expected)
 
 Languages
 ======
@@ -34,8 +40,13 @@ Currently working on
 * Formalizing ZX Calculus to create a verified ZX calculus optimizer
   * Co-Leading with Ben Caldwell under guidance of Robert Rand & John Reppy
   * [This work won a grant from the Air Force Office of Scientifc Research (AFOSR)](https://cs.uchicago.edu/news/assistant-professor-robert-rand-receives-air-force-young-investigator-grant/)
+  * In submission
 * Proof automation using E-Graph systems
-  * What if proof search was smart and avoided re-computation? Can we use it to solve interesting domain-specific applications?
+  * What if proof search was smart and avoided re-computation? Right now, proof search tools built into proof assistants can solve basic problems. But many times in the real world, we work with complex, yet somewhat repetitive proof problems. This project is built to fill this gap: Provide a smart proof search for concrete, real problems to make proof engineering less heavy weight. Can we use it to solve interesting domain-specific applications?
+  * Submission/arXiv expected in the coming months
+* Coq Linter ``Chickenscratch''
+  * Coq is a great tool for verification but the proof engineering tools are lacking. Pull requests are hard to review, APIs hard to use, and it's hard to join other projects, because there are a lot of implicit stylistic and completeness rules the engineer needs to follow. I'm working on building a linter specific to Coq and proof to make it easier to ship quality proof projects.
+  * Release expected late 03/2025
 
 
 Publications
@@ -65,8 +76,7 @@ Other Research Experience
 
 * Oct 2017 - Mar 2018: Research Project
   * Karsruhe Institute of Technology
-  * Prototyped and analyzed BLE beacon based indoor navigation system based on multilateration as part of practice in software engineering program at
-    Karlsruhe Insitute of Technology
+  * Prototyped and analyzed BLE beacon based indoor navigation system based on multilateration as part of practice in software engineering program at Karlsruhe Institute of Technology
 
 Work experience
 ======
@@ -77,7 +87,7 @@ Work experience
 
 * Dec 2019 - Aug 2020: Assosicate Software Engineer
   * LogMeIn, Karlsruhe, Germany
-  * Built a system to mass deploy files, scripts to virtual machines in a private cloud. For this I worked in a cross functional Software Engineering and DevOps team with members on multiple continents managing a global private cloud with thousands of active virtual machines. Built out the high availibility deployment on a container infrastructure.  Built a terraform provider for private cloud. Was repeatedly recognized for outstanding work by my superior. Conducted multiple technical interviews
+  * Built a system to mass deploy files, scripts to virtual machines in a private cloud. For this I worked in a cross functional Software Engineering and DevOps team with members on multiple continents managing a global private cloud with thousands of active virtual machines. Built out the high availability deployment on a container infrastructure.  Built a Terraform provider for private cloud. Was repeatedly recognized for outstanding work by my superior. Conducted multiple technical interviews
   * Technologies used: Java, Spring, (Postgres)SQL, Docker, Kubernetes, Go, Terraform, Ansible
 
 * Sep 2018 - Nov 2019: Software Engineering Intern (part-time)
