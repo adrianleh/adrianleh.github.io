@@ -29,6 +29,7 @@ Education
 * B.Sc. in Computer Science, Karlsruhe Institute of Technology, Germany, 2019
 * MS in Computer Science, The University of Chicago, USA, 2023
 * Ph.D. in Computer Science, The University of Chicago, USA, 09/2025 (expected)
+  * Advised by [Robert Rand](https://rand.cs.uchicago.edu) and [John Reppy](https://people.cs.uchicago.edu/~jhr/)
 
 Languages
 ======
