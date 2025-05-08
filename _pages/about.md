@@ -45,9 +45,9 @@ Currently working on
 * Proof automation using E-Graph systems
   * What if proof search was smart and avoided re-computation? Right now, proof search tools built into proof assistants can solve basic problems. But many times in the real world, we work with complex, yet somewhat repetitive proof problems. This project is built to fill this gap: Provide a smart proof search for concrete, real problems to make proof engineering less heavy weight. Can we use it to solve interesting domain-specific applications?
   * Submission/arXiv expected in the coming months
-* Coq Linter ``Chickenscratch''
+* Coq Linter Chickenscratch
   * Coq is a great tool for verification but the proof engineering tools are lacking. Pull requests are hard to review, APIs hard to use, and it's hard to join other projects, because there are a lot of implicit stylistic and completeness rules the engineer needs to follow. I'm working on building a linter specific to Coq and proof to make it easier to ship quality proof projects.
-  * Release expected late 03/2025
+  * Release expected late 05/2025
 
 
 Publications
