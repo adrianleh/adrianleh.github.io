@@ -14,13 +14,15 @@ redirect_from:
 
 Hi!
 ======
-I'm a PhD candidate at the University of Chicago. My research develops tools and techniques for improving software reliability challenges applicable to high-assurance systems, specifically but not limited to Quantum Computing.
+I'm a PhD candidate at the University of Chicago. My research develops tools and techniques for improving software reliability challenges applicable to high-assurance systems, specifically but not limited to Quantum Computing and CUDA.
+**I automatically parallelized a domain-specific language for scientific computing with CUDA and unified memory.**
+After that, I verified the ZX calculus and am building automation on top of this effort. See my projects below for more details.
 
 Before my PhD, I worked as a software engineer in infrastructure at LogMeIn, building scalable and reliable systems for a private cloud with >4000 VMs spanning three continents. During my PhD, I’ve kept an eye on improving the maintainability and automation of open-source formal verification projects. I built a linter to help manage these projects at scale and integrated CI pipelines to ensure reliability and make managing pull requests easier.
 
 I thrive at the intersection of engineering and problem-solving. I want to build and take ownership of high-quality software but also streamline the development.
 
-**I’m seeking full-time roles in Software Engineering, Developer Tooling, Infrastructure, or Cloud Computing, where I can apply my experience in building scalable systems, and high-quality mission-critical software. Expected graduation: 09/25.**
+I’m excited to be start solving complex problems at scale at Optiver as a Software Engineer in 10/25!
 
 {% include base_path %}
 
@@ -45,8 +47,8 @@ Currently working on
 * Proof automation using E-Graph systems
   * What if proof search was smart and avoided re-computation? Right now, proof search tools built into proof assistants can solve basic problems. But many times in the real world, we work with complex, yet somewhat repetitive proof problems. This project is built to fill this gap: Provide a smart proof search for concrete, real problems to make proof engineering less heavy weight. Can we use it to solve interesting domain-specific applications?
   * Submission/arXiv expected in the coming months
-* Coq Linter Chickenscratch
-  * Coq is a great tool for verification but the proof engineering tools are lacking. Pull requests are hard to review, APIs hard to use, and it's hard to join other projects, because there are a lot of implicit stylistic and completeness rules the engineer needs to follow. I'm working on building a linter specific to Coq and proof to make it easier to ship quality proof projects.
+* Rocq Linter "Chickenscratch"
+  * Rocq, formerly Coq, is a great tool for verification but the proof engineering tools are lacking. Pull requests are hard to review, APIs hard to use, and it's hard to join other projects, because there are a lot of implicit stylistic and completeness rules the engineer needs to follow. I'm working on building a linter specific to Rocq and proof to make it easier to ship quality proof projects.
   * Release expected late 05/2025
 
 
